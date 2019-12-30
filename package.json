@@ -1,0 +1,24 @@
+{
+  "name": "@m1yh3m/position.2d.canvas.lib",
+  "version": "1.0.0",
+  "description": "Canvas lib - 2D position",
+  "main": "position.2d.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jasmine": "^3.5.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m1yh3m/position.2d.canvas.lib.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m1yh3m/position.2d.canvas.lib/issues"
+  },
+  "homepage": "https://github.com/m1yh3m/position.2d.canvas.lib#readme"
+}
